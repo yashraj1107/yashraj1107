@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashraj1107
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in a job as a web developer
+- 🌱 I’m currently learning React js, Node js
 - 💞️ I’m looking to collaborate on react,flutter and web development
 - 📫 How to reach me yashrajsawant1107@gmail.com
 
