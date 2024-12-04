@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashraj1107
 - 👀 I’m interested in a job as a web developer
-- 🌱 I’m currently learning React js, Node js
-- 💞️ I’m looking to collaborate on react,flutter and web development
+- 🌱 I’m currently learning Docker, Ngnix, CI/CD
+- 💞️ I’m looking to collaborate on React Js, Devops, Docker, Java, Python
 - 📫 How to reach me yashrajsawant1107@gmail.com
 
 <!---
